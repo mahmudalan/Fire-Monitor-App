@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506960639715",
+    "project_id": "acin-fire-monitor",
+    "storage_bucket": "acin-fire-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506960639715:android:a6f9285ca4b63ab668f7d6",
+        "android_client_info": {
+          "package_name": "com.example.dasboard_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzmyHio6-Y2ABdBZ8qYwP2CQSj5CJvog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
